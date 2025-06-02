@@ -20,8 +20,7 @@ The current version was **prototyped on a perfboard and hand-soldered**, intende
 ---
 
 ## Schematic Preview
-
-[Docs/24V_InjectorDriver.png](./Docs/24V_InjectorDriver.png)
+![Docs/24V_InjectorDriver.png](/Docs/24V_InjectorDriver.png)
 - Designed using **Altium Designer**
 ---
 
