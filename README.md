@@ -25,7 +25,7 @@ The current version was **prototyped on a perfboard and hand-soldered**, intende
 - Designed using **Altium Designer**
 ---
 
-## 📋 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 
 | Comment         | Designator                                         | Quantity |
@@ -60,7 +60,6 @@ The current version was **prototyped on a perfboard and hand-soldered**, intende
 2. A **global SPDT switch** selects between original and inverted signals.
 3. Signals go through a **74HC157 mux** to the **LM1949** ICs.
 4. Each LM1949 controls a **MOSFET** for Peak and Hold phases.
-5. 
 ---
 
 ## License
